@@ -5,9 +5,9 @@
 
 ## 🚀 Hakkımda / About Me
 
-🇹🇷 Merhaba, ben Eren Arif Kargalıoğlu. 16 yaşında bir yazılım geliştiriciyim. Kendimi .NET dünyasında geliştirmek istiyorum. Yüksek performanslı, modern tekniklere uygun ve düzenli bir şekilde çalışıyorum. Servis uygulamaları, yönetim sistemleri ve benzeri projeler geliştiriyor ve üretiyorum.
+🇹🇷 Merhaba, ben Eren Arif Kargalıoğlu. 17 yaşında bir yazılım geliştiriciyim. Kendimi .NET dünyasında geliştirmek istiyorum. Yüksek performanslı, modern tekniklere uygun ve düzenli bir şekilde çalışıyorum. Servis uygulamaları, yönetim sistemleri ve benzeri projeler geliştiriyor ve üretiyorum.
 
-🌐 Hello, I'm Eren Arif Kargalıoğlu, a 16-year-old software developer. I aim to become proficient in the .NET ecosystem. I work in an organized manner, focusing on high-performance and modern software development techniques. I develop and produce service applications, management systems, and similar projects.
+🌐 Hello, I'm Eren Arif Kargalıoğlu, a 17-year-old software developer. I aim to become proficient in the .NET ecosystem. I work in an organized manner, focusing on high-performance and modern software development techniques. I develop and produce service applications, management systems, and similar projects.
 
 ---
 
