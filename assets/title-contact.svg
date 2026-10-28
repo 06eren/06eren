@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 70" width="1280" height="70" role="img" aria-label="iletişim">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#7c5cff"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="d"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+</defs>
+<text x="2" y="36" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="16" fill="#22d3ee">04</text>
+<text x="44" y="38" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" letter-spacing="-1" fill="#f4f4fb">iletişim<tspan font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="400" fill="#7a7a96" letter-spacing="0">   /   contact</tspan></text>
+<rect x="0" y="56" height="2" fill="url(#g)"><animate attributeName="width" from="0" to="1280" dur="1.4s" fill="freeze"/></rect>
+<circle cy="57" r="9" fill="url(#d)"><animate attributeName="cx" values="0;1280" dur="4.5s" repeatCount="indefinite"/></circle>
+<circle cy="57" r="2.5" fill="#fff"><animate attributeName="cx" values="0;1280" dur="4.5s" repeatCount="indefinite"/></circle>
+</svg>
