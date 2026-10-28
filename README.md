@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Eren Arif Kargalıoğlu — Full-Stack Developer, Founder of ERN Yazılım" width="100%"/>
+<img src="assets/header.svg" alt="Eren Arif Kargalıoğlu — Full-Stack Developer, ERN Yazılım" width="100%"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="assets/about.svg" alt="Eren.cs" width="100%"/>
+<img src="assets/about.svg" alt="Fikirleri, çalışan ve güzel ürünlere dönüştürüyorum." width="100%"/>
 
 </div>
 
@@ -32,22 +32,12 @@
 
 <br/>
 
-<img src="assets/title-services.svg" alt="neler yapıyorum / what i do" width="100%"/>
-
-<div align="center">
-
-<img src="assets/services.svg" alt="Web, Masaüstü, Mobil, DevOps, SEO" width="100%"/>
-
-</div>
-
-<br/>
-
 <img src="assets/title-contact.svg" alt="iletişim / contact" width="100%"/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/06erenarif/"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="62"/></a>
-<a href="https://instagram.com/erenarfq"><img src="assets/pill-instagram.svg" alt="Instagram" height="62"/></a>
+<a href="https://www.linkedin.com/in/06erenarif/"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="62"/></a>&nbsp;
+<a href="https://instagram.com/erenarfq"><img src="assets/pill-instagram.svg" alt="Instagram" height="62"/></a>&nbsp;
 <a href="https://github.com/06eren"><img src="assets/pill-github.svg" alt="GitHub" height="62"/></a>
 
 </div>
