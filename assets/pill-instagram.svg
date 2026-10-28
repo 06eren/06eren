@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 218 62" width="218" height="62" role="img" aria-label="Instagram">
 <defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#7c5cff"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffe0a0"/><stop offset=".4" stop-color="#ffae4a"/><stop offset=".75" stop-color="#ff7a45"/><stop offset="1" stop-color="#e5534b"/></linearGradient>
+<radialGradient id="hv"><stop offset="0" stop-color="#ff8fa3" stop-opacity=".25"/><stop offset="1" stop-color="#ff8fa3" stop-opacity="0"/></radialGradient>
 </defs>
 <g transform="translate(2,2)">
-<rect width="214" height="58" rx="29.0" fill="#0d0d14" stroke="#1c1c2b"/>
-<rect width="214" height="58" rx="29.0" fill="none" stroke="url(#g)" stroke-width="2" stroke-linecap="round" stroke-dasharray="70 424.2">
+<rect width="214" height="58" rx="29.0" fill="#12100d" stroke="#2a241c"/>
+<ellipse cx="29" cy="29" rx="60" ry="30" fill="url(#hv)"><animate attributeName="cx" values="29;185;29" dur="6s" repeatCount="indefinite"/></ellipse>
+<rect width="214" height="58" rx="29.0" fill="none" stroke="url(#g)" stroke-width="2" stroke-linecap="round" stroke-dasharray="80 414.2">
 <animate attributeName="stroke-dashoffset" from="0" to="-494.2" dur="4s" repeatCount="indefinite"/></rect>
-<circle cx="29" cy="29" r="17" fill="#f472b6" opacity=".16"/>
-<text x="29" y="34" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="800" fill="#f472b6">ig</text>
-<text x="58" y="35" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#f4f4fb">Instagram</text>
-<text x="190" y="35" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="18" fill="#7a7a96">↗</text>
+<circle cx="29" cy="29" r="17" fill="#ff8fa3" opacity=".16"><animate attributeName="opacity" values=".16;.28;.16" dur="3s" repeatCount="indefinite"/></circle>
+<g transform="translate(18.5,18.5) scale(.875)"><rect x="2.6" y="2.6" width="18.8" height="18.8" rx="5.4" fill="none" stroke="#ff8fa3" stroke-width="2"/><circle cx="12" cy="12" r="4.3" fill="none" stroke="#ff8fa3" stroke-width="2"/><circle cx="17.5" cy="6.5" r="1.3" fill="#ff8fa3"/></g>
+<text x="58" y="35" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#f6eddd">Instagram</text>
+<text x="190" y="35" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="18" fill="#9b9080">↗</text>
 </g>
 </svg>
